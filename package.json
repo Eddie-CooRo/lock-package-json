@@ -3,9 +3,9 @@
 	"displayName": "Lock package.json",
 	"description": "A simple package to lock package.json based on versions in package-lock.json",
 	"version": "1.0.0",
-	"main": "dist/cli/cli.js",
+	"main": "dist/cli.js",
 	"bin": {
-		"lock-package-json": "dist/cli/cli.js"
+		"lock-package-json": "dist/cli.js"
 	},
 	"publishConfig": {
 		"access": "public"
