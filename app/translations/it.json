@@ -2,8 +2,8 @@
 	"contributions": {
 		"language": "Italian",
 		"license": "CC BY 4.0",
-		"contributors": ["Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)"]
+		"contributors": ["Eddie Cooro [@Eddie-Cooro]"]
 	},
-	"app_name": "node-cli-boilerplate",
+	"app_name": "lock-package-json",
 	"hello": "Ciao {{name}}!"
 }

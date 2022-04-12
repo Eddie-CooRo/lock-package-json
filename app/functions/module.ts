@@ -4,7 +4,7 @@
  *
  * Show hello world text
  *
- * @contributors: Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)
+ * @contributors: Eddie Cooro [@Eddie-Cooro]
  *
  * @license: MIT License
  *
@@ -15,9 +15,9 @@ import type { ModuleInterface, ModuleResponseInterface } from "@app/types/module
  * Hello World
  * =====================
  *
- * Print hello-world, run with: npx @ptkdev/node-cli-boilerplate
+ * Print hello-world, run with: npx undefined/lock-package-json
  *
- * @interface [ModuleInterface ModuleResponseInterface](https://github.com/ptkdev-boilerplate/node-cli-boilerplate/blob/main/app/types/module.interfaces.ts)
+ * @interface [ModuleInterface ModuleResponseInterface](https://github.com/Eddie-CooRo/lock-package-json/blob/main/app/types/module.interfaces.ts)
  *
  * @param {string} {text} - input string
  *

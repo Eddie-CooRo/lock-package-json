@@ -2,7 +2,7 @@
  * Translate Interface
  * =====================
  *
- * @contributors: Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)
+ * @contributors: Eddie Cooro [@Eddie-Cooro]
  *
  * @license: MIT License
  *

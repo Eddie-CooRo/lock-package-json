@@ -1,6 +1,6 @@
 {
-	"projectName": "ptkdev-boilerplate/node-cli-boilerplate",
-	"projectOwner": "ptkdev",
+	"projectName": "Eddie-CooRo/lock-package-json",
+	"projectOwner": "Eddie-Cooro",
 	"repoType": "github",
 	"repoHost": "https://github.com",
 	"files": [
@@ -8,20 +8,7 @@
 	],
 	"imageSize": 100,
 	"commit": true,
-	"contributors": [
-		{
-			"login": "ptkdev",
-			"name": "Patryk Rzucidło",
-			"avatar_url": "https://avatars1.githubusercontent.com/u/442844?v=4",
-			"profile": "https://ptk.dev",
-			"contributions": [
-				"code",
-				"translation",
-				"doc",
-				"bug"
-			]
-		}
-	],
+	"contributors": [],
 	"contributorsPerLine": 6,
 	"commitConvention": "none"
 }
