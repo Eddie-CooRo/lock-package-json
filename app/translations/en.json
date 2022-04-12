@@ -1,9 +1,0 @@
-{
-	"contributions": {
-		"language": "English",
-		"license": "CC BY 4.0",
-		"contributors": ["Eddie Cooro [@Eddie-Cooro]"]
-	},
-	"app_name": "lock-package-json",
-	"hello": "Hello {{name}}!"
-}
