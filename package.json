@@ -2,7 +2,7 @@
 	"name": "lock-package-json",
 	"displayName": "Lock package.json",
 	"description": "A simple package to lock package.json based on versions in package-lock.json",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "dist/cli.js",
 	"bin": {
 		"lock-package-json": "dist/cli.js"
