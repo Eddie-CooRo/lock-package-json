@@ -2,9 +2,11 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.0.2](https://img.shields.io/badge/version-v1.0.2-lightgray.svg?style=flat&logo=)](https://github.com/Eddie-CooRo/lock-package-json/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/lock-package-json?color=CC3534&logo=npm)](https://www.npmjs.com/package/lock-package-json) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/Eddie-CooRo/lock-package-json/blob/main/LICENSE.md) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.0.3](https://img.shields.io/badge/version-v1.0.3-lightgray.svg?style=flat&logo=)](https://github.com/Eddie-CooRo/lock-package-json/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/lock-package-json?color=CC3534&logo=npm)](https://www.npmjs.com/package/lock-package-json) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/Eddie-CooRo/lock-package-json/blob/main/LICENSE.md) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
+
+A Simple package to lock package.json based on versions in package-lock.json
 
 ## 📎 Menu
 
